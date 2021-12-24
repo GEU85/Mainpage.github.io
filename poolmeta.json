@@ -1,7 +1,1 @@
-{
-  "name": "FFFF Pool",
-  "description": "The robust & persistant CARDANO Stake POOL ",
-  "ticker": "FFFF",
-  "homepage": "https://fortepool.io",
-  "extended": "https://fortepool.io/poolmeta.json"
- }
+{"name":"The fortepool.io","ticker":"FORTE","description":"Welcome to us, we offer high performance staking operation at fair & transparent fees.","homepage":"https://fortepool.io","nonce":"1640341325"}
